@@ -54,7 +54,7 @@ terraform apply
 
 ```
 
-Open the `alb\_dns\_name` output in a browser.
+Open the `alb_dns_name` output in a browser.
 
 
 
