@@ -67,5 +67,5 @@ NAT gateways and RDS cost money while running, so destroy when you're done.
 ## Self-healing demo
 I terminated one instance, the site kept loading, and the Auto Scaling group launched a replacement.
 
-![Self-healing demo](images/instances-ec2-account-id-blurred_1_.gif)
+![Self-healing demo](images/self-healing-demo.gif)
 
